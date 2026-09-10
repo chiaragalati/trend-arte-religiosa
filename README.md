@@ -1,7 +1,8 @@
 # _Sola fide, sola scriptura, sola data_: principali generi pittorici e analisi del trend dell'arte religiosa
 
 ## DOI
-https://zenodo.org/doi/10.5281/22684742
+[![DOI](https://zenodo.org/badge/1363229389.svg)](https://doi.org/10.5281/zenodo.22684741)
+
 
 ## Descrizione
 Lo scopo del progetto è l'analisi (esplorativa ed esplicativa) di un dataset storico-artistico, che comprende una serie di opere la cui realizzazione si colloca tra l'XI e il XXI secolo. Ci si focalizzerà in seguito sull'andamento dell'arte religiosa in generale nel corso del periodo preso in esame, e successivamente nel XVI secolo.
